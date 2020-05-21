@@ -1,0 +1,38 @@
+header {
+    
+}
+
+footer {
+
+}
+
+h2 {
+
+}
+
+p {
+
+}
+
+#main-title { 
+      color:blueviolet;
+      font: italic 1.5em cursive;
+      font-weight: bold;
+      text-align: center;
+      text-decoration: underline;
+}
+
+#brand-shoes { 
+  width: 200px;
+  border: 2px ridgy gold;
+    padding: 15px
+    position: absolute;
+    float: left;
+
+}
+
+aside { 
+  font-style: italic;
+  color: navy;
+    font-weight: bold;
+}
